@@ -1,0 +1,214 @@
+#Cuadro{
+    background-color:cornflowerblue;
+    height: 350px;
+    width: 50vh;
+    margin: auto;
+    margin-top:200px;
+
+}
+body{
+    background-color: cyan;
+}
+#O{
+    width: 150px;;
+}
+#m{
+    width: 150px;
+}
+#Escritorio{
+    text-align: center;
+
+    
+}
+body{
+    background:rgb(0, 255, 255);
+}
+#a{
+    margin-left: 50%;
+    width: 100px;
+}
+#b{
+    margin-left: 50%;
+    width: 100px;
+
+}
+#c{
+    margin-left: 50%;
+    width: 100px;
+
+}
+#d{
+    margin-left: 50%;
+    width: 100px;
+
+}
+#f{
+    margin-left: 50%;
+    width: 100px;
+
+}
+#g{
+    margin-left: 25%;
+    width: 50%;
+
+}
+#h{
+    margin-left: 20%;
+    width: 15%;
+}
+#i{
+    margin-left: 5%;
+    width: 15%;
+}
+#j{
+    margin-left: 5%;
+    width: 15%;
+    
+}
+#visual{
+    margin-left: 20%;
+    width:15%;
+}
+#sublime{
+    margin-left: 5%;
+    width:15%;
+}
+#brackets{
+    margin-left:5%;
+    width: 15%;
+}
+#ejemplo2{
+    width:25%;
+}
+#ejemplo3{
+    width:25%;
+}
+#ejemplo1{
+    width:25%;
+}
+#n{
+    color:rgb(255, 0, 0)
+}
+#texto{
+    text-align: center;
+}
+#rr{
+    color: blue;
+    font-size: 25px;
+}
+#VV{
+    color: red;
+}
+#j1{
+    
+    background-color: rgb(39, 129, 231);
+}
+#j2{
+    background-color: blueviolet;
+}
+#j3{
+    background-color: brown;
+}
+#j4{
+    background-color: burlywood;
+}
+#j5{
+    background-color: cadetblue;
+}
+#j6{
+    background-color: cornflowerblue;
+}
+#c1{
+    background: rgb(241, 21, 21);
+}
+#c2{
+    background: rgb(183, 241, 116);
+}
+#c3{
+    background: rgb(126, 126, 255);
+}
+#c4{
+    background: rgb(10, 127, 173);
+}
+#c5{
+     background: rgb(252, 252, 39);
+}
+#c6{
+    background: rgb(224, 80, 54);
+}
+#c7{
+    background: white 
+}
+#c8{
+    background: silver
+}
+#c9{
+    background: gray
+}
+#c10{
+    background: yellow
+}
+#c11{
+    background: gold
+}
+#c12{
+    background: orange
+}
+#c13{
+    background: red
+}
+#c14{
+    background: rgb(218, 117, 218)
+}
+#c15{
+    background: rgb(90, 90, 233)
+}
+#c16{
+    background: rgb(170, 112, 211)
+}
+#c17{
+    background: rgb(89, 161, 89)
+}
+#c18{
+    background: rgb(87, 79, 79);
+    color: white;
+}
+#b1{
+    background-color: blue;
+}
+#b2{
+    background-color: blueviolet;
+}
+#b3{
+    background-color: brown;
+}
+#v1{
+    background-color: cadetblue;
+}
+#v2{
+    background-color: coral;
+}
+#Netflix{
+    width:50%;
+}
+#YOUTUBE{
+    width:50%;
+}
+#Playstore{
+    width:50%;
+}
+#DUOLINGO{
+    width:50%;
+}
+#AMAZON{
+    width:50%;
+}
+#BANCOPICHINCHA{
+    width:50%;
+}
+#PAYPAL{
+    width:50%;
+}
+#plataformas{
+    background-color: cadetblue;
+}
